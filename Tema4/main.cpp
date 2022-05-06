@@ -14,3 +14,5 @@ int main(int argc, char **argv)
     cout << "a*b=" << P << "\n";
 	return 0;
 }
+
+"adazxc"
