@@ -1,6 +1,3 @@
-language = "cpp"
-run = "g++ "
-
 #include "iostream"
 
 using namespace std;
